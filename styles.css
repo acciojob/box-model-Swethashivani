@@ -9,21 +9,21 @@
 	padding: 20px;
 	text-align:center;
 }
-.circle1 {
+.green {
             width: 100px;  /* Diameter */
             height: 100px; /* Diameter */
             background-color: green; /* Circle color */
             border-radius: 50%; /* Makes it a perfect circle */
 	padding: 5px;
         }
-.circle2 {
+.yellow {
             width: 100px;  /* Diameter */
             height: 100px; /* Diameter */
             background-color: yellow; /* Circle color */
             border-radius: 50%; /* Makes it a perfect circle */
 	padding: 5px;
         }
-.circle3 {
+.red {
             width: 100px;  /* Diameter */
             height: 100px; /* Diameter */
             background-color: red; /* Circle color */
